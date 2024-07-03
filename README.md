@@ -1,8 +1,8 @@
-# Space Race: Determining SpaceX Rocket Launch Success with ML
+# Space Race: Determining SpaceX Rocket Landing Success with ML
 #### by Sami Khalayli
 
 ## Overview
-This capstone project explores the factors influencing the success of SpaceX rocket launches through machine learning (ML). Utilizing data sourced from SpaceX's API and web scraping techniques, the project combines predictive analytics and visual data exploration to provide insights into the space industry's challenges and advancements. It is the final project of the 10-course "IBM Data Science Specialization".
+This capstone project explores the factors influencing the success of SpaceX rocket launches and landing through machine learning (ML). Utilizing data sourced from SpaceX's API and web scraping techniques, the project combines predictive analytics and visual data exploration to provide insights into the space industry's challenges and advancements. It is the final project of the 10-course "IBM Data Science Specialization".
 
 ## Executive Summary
 My investigation dives into multiple aspects of rocket launches, including site efficiency, payload mass, and orbit types. By leveraging classification models such as K-Nearest Neighbors (KNN), Logistic Regression, and Support Vector Machines (SVM), this project attempts to uncover patterns that might predict launch outcomes and first stage landing successfully.
